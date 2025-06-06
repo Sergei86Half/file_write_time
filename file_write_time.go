@@ -38,7 +38,7 @@ func main() {
 
 	// Выводим сообщение в терминал
 	//fmt.Println("Информация записана в файл:", filePath)
-	fmt.Println("SEE THE DESKTOP :)")
+	fmt.Println("SEE THE DESKTOP :) \nСмотри рабочий стол :)")
 }
 
 // getDesktopPath возвращает путь к рабочему столу пользователя
